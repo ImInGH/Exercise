@@ -1,0 +1,42 @@
+Strength/
+  Arms/
+	Machines/
+	BodyWeight/
+	FreeWeight/
+  Legs/
+	Machines/Smith-machine or hack squat
+	BodyWeight/Unweighted squats ...
+	FreeWeight/Barbell, dumbbell, or kettlebell squats ...
+  Back/
+	Machines/
+	BodyWeight/
+	FreeWeight/
+  Chest/
+	Machines/
+	BodyWeight/
+	FreeWeight/
+  Shoulders/
+	Machines/
+	BodyWeight/
+	FreeWeight/
+  Core/
+	Machines/
+	BodyWeight/
+		/ForearmPlank/
+	FreeWeight/
+
+
+Cardio/
+  Walking/
+  Running/
+  Cycling/
+  Rowing/
+  Elliptical/
+  JumpRope/
+  Bodyweight/
+
+Two useful rules:
+
+Classify by primary purpose, keeping one image that different workouts can reuse. Seated strength rows and cardio rowing belong in different categories.
+HIIT and Tabata are workout formats, not exercise categories. Either can combine exercises from several folders.
+
